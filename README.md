@@ -1,9 +1,9 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141414,100:1a1a1a&height=200&section=header&text=Shammas-ul-Islam%20Satti&fontSize=40&fontColor=58a6ff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141414,100:1a1a1a&height=200&section=header&text=Shammas%20ul%20Islam&fontSize=40&fontColor=58a6ff&animation=fadeIn" width="100%" />
 </p>
 
-<h3 align="center">🎮 Game Developer | 🤖 AI & ML Enthusiast | 💡 Computer Science Graduate</h3>
+<h3 align="center">🎮 Game Developer &nbsp;|&nbsp; 🎨 Aspiring Game Designer &nbsp;|&nbsp; 🤖 AI & ML Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/Shammas-satti-00"><img src="https://img.shields.io/github/followers/Shammas-satti-00?label=Follow&style=social" alt="GitHub Followers"></a>
@@ -16,13 +16,12 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Computer Science Graduate** from **PMAS ARID Agriculture University, Rawalpindi**, passionate about building immersive **2D/3D games** and integrating **AI-driven features** into interactive experiences. My goal is to blend **game mechanics, AI, and creativity** to create engaging, intelligent, and performance-optimized virtual worlds.
+I'm a **Computer Science graduate** from **PMAS Arid Agriculture University, Rawalpindi**, working mostly in **Unity** across combat systems, AI, and VR interaction. What draws me to game development is less the code and more the design question underneath it — how a mechanic, an AI behavior, or a level layout changes the way a moment *feels* to play.
 
-- 🔭 **Currently Working On:** *Paladin of the North* — RPG Prototype (In Progress)
-- 🌱 **Learning:** AI Integration in Game Engines & Neural NPCs
-- 💬 **Ask Me About:** Unity 3D, C#, C++, VR/XR, Game AI, Flask 
-- ⚡ **Fun Fact:** My first full game featured a custom RPG combat system entirely coded in C#
-- 🎯 **Goal:** Join a creative game studio or AI-driven simulation team
+- 🔭 **Currently building:** *Paladin of the North* — RPG prototype with custom combat and quest systems (in progress)
+- 🌱 **Currently exploring:** AI-driven NPC behavior and neural approaches to adaptive gameplay
+- 💬 **Ask me about:** Unity 3D, C#, VR/XR interaction design, game AI, level design
+- 🎯 **Goal:** Deepen my design practice through the Erasmus Mundus REPLAY Master's, and eventually work on games with real creative and interactive-storytelling ambition
 
 ---
 
@@ -30,7 +29,7 @@ I'm a **Computer Science Graduate** from **PMAS ARID Agriculture University, Raw
 
 | **Category** | **Skills & Tools** |
 |--------------|-------------------|
-| 🎮 **Game Development** | Unity 3D, XR Interaction Toolkit, C#, Gameplay Systems, Animations, Physics, Level Design |
+| 🎮 **Game Development** | Unity 3D, XR Interaction Toolkit, C#, Gameplay Systems, Animation, Physics, Level Design |
 | 💻 **Programming & Web** | C++, Python, JavaScript, React.js, TypeScript, Flask, Node.js |
 | 🗄️ **Databases** | MySQL, MongoDB, SQL Server |
 | 🧰 **Tools & IDEs** | Visual Studio, VS Code, Android Studio, Git, GitHub |
@@ -42,7 +41,7 @@ I'm a **Computer Science Graduate** from **PMAS ARID Agriculture University, Raw
 ### 🕹️ Game Development
 
 #### **🗡️ [Paladin of the North](https://github.com/Shammas-satti-00/Paladin-of-the-North)** — 🚧 *In Progress*
-> Story-driven RPG where the Paladin returns to reclaim his throne from a brutal demon. Features custom combat systems, quest logic, and immersive level design.
+> A story-driven RPG where a returning Paladin must reclaim his throne from a demon usurper. Focused on making combat feel weighty and quests feel purposeful, not just scripted.
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
@@ -50,7 +49,7 @@ I'm a **Computer Science Graduate** from **PMAS ARID Agriculture University, Raw
 ---
 
 #### **🏃 [Shape Runner Shifter](https://github.com/Shammas-satti-00/Shape-Runner-Shifter-Unity-3d)**
-> Player morphs into shapes (ball, cube, jet) to navigate obstacles. Mechanic-driven design with polished camera transitions and shaders.
+> A reflex-based runner where the player morphs between forms (sphere, cube, jet) to navigate procedural obstacles — designed around split-second readability and smooth camera transitions.
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
@@ -59,7 +58,7 @@ I'm a **Computer Science Graduate** from **PMAS ARID Agriculture University, Raw
 ---
 
 #### **🕶️ [VR Tutorial Environment](https://github.com/Shammas-satti-00/VR-Tutorial-Unity-3D)**
-> Interactive VR experience using XR Interaction Toolkit and MockHMD for headset-free testing. Perfect for VR onboarding.
+> An interactive VR onboarding experience built with the XR Interaction Toolkit, using MockHMD for headset-free testing — exploring how to teach VR interaction without overwhelming a first-time user.
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![XR Toolkit](https://img.shields.io/badge/XR_Toolkit-5C2D91?style=flat)
@@ -68,7 +67,7 @@ I'm a **Computer Science Graduate** from **PMAS ARID Agriculture University, Raw
 ---
 
 #### **⚔️ [Grid Battle Arena](https://github.com/Shammas-satti-00/Grid-Battle-Arena-Unity-3D)**
-> Turn-based tactical combat game with grid-based movement, win/draw detection, and strategic gameplay mechanics.
+> A turn-based tactical arena with grid-based movement and win/draw logic, designed around clear, readable strategic choices rather than reaction speed.
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
@@ -76,7 +75,7 @@ I'm a **Computer Science Graduate** from **PMAS ARID Agriculture University, Raw
 ---
 
 #### **🕹️ [Super Runner 2D](https://github.com/Shammas-satti-00/Super-Runner-2D-Unity-3d)**
-> Classic Mario-style 2D platformer with smooth animations, sound effects, and collectibles.
+> A Mario-style 2D platformer with collectible-driven level design, smooth animation, and enemy hazards paced toward a clear end goal.
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
@@ -84,26 +83,17 @@ I'm a **Computer Science Graduate** from **PMAS ARID Agriculture University, Raw
 ---
 
 #### **🍄 [Flappy Mario (OpenGL)](https://github.com/Shammas-satti-00/Flappy-Mario-Game-in-C-with-opengl-)**
-> 3D tribute to classic Mario games built from scratch using C++ and OpenGL with player movement, collision detection, and enemy spawning.
+> A 3D tribute to classic Mario built from scratch in C++ and OpenGL — player movement, collision detection, and enemy spawning implemented without an engine, as a low-level systems exercise.
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white)
 
 ---
 
-### 🤖 AI & Web Projects
+### 🤖 AI & Research Projects
 
-#### **🧠 [AI-Powered Skill Matcher](https://github.com/Shammas-satti-00/AI-Powered-Skill-Matcher-)**
-> NLP-based system for semantic matching between resumes and job descriptions using SentenceTransformers. Supports PDF/DOCX parsing.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat)
-
----
-
-#### **🎭 [AI-Powered Deepfake Detection](https://github.com/Shammas-satti-00/AI-Powered-Deepfake-Detection-with-Sentiment-Analysis)**
-> Combines deepfake detection with sentiment analysis to identify manipulated videos and analyze emotional impact using deep learning.
+#### **🎭 [AI-Powered Deepfake Detection](https://github.com/Shammas-satti-00/AI-Powered-Deepfake-Detection-with-Sentiment-Analysis)** — *Final Year Project*
+> A multimodal deep learning pipeline combining video forensic detection with sentiment analysis, exploring how manipulated media affects audience perception.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -111,17 +101,19 @@ I'm a **Computer Science Graduate** from **PMAS ARID Agriculture University, Raw
 
 ---
 
-#### **🛍️ [Shoplyvogue - Kids Style](https://github.com/Shammas-satti-00/shoplyvogue-kidz-style)**
-> E-commerce front-end for children's fashion with modern UI/UX and responsive design.
+#### **🧠 [AI-Powered Skill Matcher](https://github.com/Shammas-satti-00/AI-Powered-Skill-Matcher-)**
+> An NLP system for semantic matching between resumes and job descriptions using SentenceTransformers, with PDF/DOCX parsing support.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat)
 
 ---
 
+### 🌐 Web Projects
+
 #### **🎮 [Shadow Runner](https://github.com/Shammas-satti-00/Shadow-Runner)**
-> WebGL runner game built with Three.js showcasing web-based 3D game development.
+> A WebGL runner built with Three.js, exploring browser-based 3D game development outside a traditional engine.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
@@ -129,8 +121,17 @@ I'm a **Computer Science Graduate** from **PMAS ARID Agriculture University, Raw
 
 ---
 
+#### **🛍️ [Shoplyvogue – Kids Style](https://github.com/Shammas-satti-00/shoplyvogue-kidz-style)**
+> An e-commerce front-end for children's fashion, focused on a modern, responsive UI/UX.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+
+---
+
 #### **🌐 [Personal Portfolio](https://github.com/Shammas-satti-00/Portfolio-new)** — [🔗 Live Demo](https://portfolio-new-tau-peach.vercel.app/)
-> Modern portfolio website showcasing projects and skills with responsive design.
+> My portfolio site, showcasing selected projects and design case studies.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -151,7 +152,7 @@ I'm a **Computer Science Graduate** from **PMAS ARID Agriculture University, Raw
 
 ---
 
-## 🧩 Technologies I Love Working With
+## 🧩 Technologies I Work With
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=unity,cs,cpp,py,js,react,flask,html,css,git,github,mysql,mongodb,vscode,visualstudio&theme=dark" />
